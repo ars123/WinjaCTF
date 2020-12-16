@@ -10,6 +10,7 @@ Steganography and bruteforce.
 
 # Requirements:
 FlexHex
+
 john (the ripper)
 
 # Sources:
